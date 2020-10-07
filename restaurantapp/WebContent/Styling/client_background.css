@@ -1,0 +1,24 @@
+body{
+  background:  linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(../rest_photos/client_background.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+input{
+display:inline-block;
+}
+
+.level{
+background-color:#ffffff;
+color:black;
+padding:25px 20px;
+margin-top: 40px;
+width:35%;
+font-weight:700;
+border:3px solid #ff9900;
+border-radius:7px;
+}
